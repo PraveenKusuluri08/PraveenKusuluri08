@@ -15,22 +15,24 @@
    ### Technical Skills
 
  <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
- <a href="https://www.python.org/"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
- <a href="https://docs.oracle.com/en/java/"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
- <a href="https://github.com/"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
- <a href="https://firebase.google.com/docs/cli"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></a>
- <a href="https://reactjs.org/docs/getting-started.html"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
- <a href="https://go.dev/learn/"><img height="40" width="40" src="https://www.kindpng.com/picc/m/599-5995612_golang-logo-hd-png-download.png"/></a>
- <a href="https://www.mongodb.com/"><img height="40" width="40" src="https://toppng.com/uploads/preview/mongodb-logo-11609369386lqoc6r2ga9.png" /></a>
-  <a href="https://nodejs.org/dist/latest-v17.x/docs/api/"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrdtnfQ7yeEvZQ9gn2oBc1H2s-NCuSUtdldEu1yv6kbDES3VlEYhm7zwaE1-TlR2aF3w&usqp=CAU" /></a>
-  <a href="https://expressjs.com/en/starter/installing.html"><img height="40" width="40" src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"/></a>
-  <a href="https://reactnative.dev/docs/getting-started"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU"/></a>
-  <a href="https://mongoosejs.com/docs/guide.html"><img height="40" width="40" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg"/></a>
-  <a href="https://www.geeksforgeeks.org/c-programming-language/"><img height="40" width="40" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"/></a>
+ <img background-color="coral" height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" />
+ <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" />
+ <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" />
+<img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/git.svg"/>
+ <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg"/>
+<img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" />
+<img height="40" width="40" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"/>
+ <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb.svg" />
+ <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" />
+ <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg"/>
+  <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg"/>
+  <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg"/>
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40px" height="40px">
+  <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg"/>
+  <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg"/>
+  <img height="40" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg"/>
   
+<!--  https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg -->
   <p align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKusuluri08&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
