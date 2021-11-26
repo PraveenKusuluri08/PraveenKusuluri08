@@ -9,7 +9,7 @@
   - 💻 ***I Write Code Every Single Day***
   - 🌱 I’m currently learning ***Web Security And Mobile Application Development***
   - 📫 How to reach me ***Praveenkusiluri08@gmail.com***
-  - 💬 Ask me about ***Web Development***
+  - 💬 Ask me about ***Web Development and Golang***
  <hr/>
 
    ### Technical Skills
