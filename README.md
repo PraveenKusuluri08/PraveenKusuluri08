@@ -7,7 +7,7 @@
 
   - 🔭 I’m currently pursuing my Bachelor's Degree in Computer Science and Engineering.
   - 💻 ***I Write Code Every Single Day***
-  - 🌱 I’m currently learning ***Web Security And Mobile Application Development***
+  - 🌱 I’m currently learning ***AWS Serverless architecture And Mobile Application Development***
   - 📫 How to reach me ***Praveenkusuluri08@gmail.com***
   - 💬 Ask me about ***Web Development and Golang***
  <hr/>
