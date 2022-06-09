@@ -1,4 +1,4 @@
-<h1 align="center">Hi there  <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">,I'm Praveen</h1>
+<h1 align="center">Hi there  <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="20px">,I'm Praveen</h1>
 <h2 alig>Passonate Web Developer And Enthusiast in Technologies and Web Security</h2>
 
 ![](https://komarev.com/ghpvc/?username=PraveenKusuluri08) <br><br>
