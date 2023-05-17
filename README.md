@@ -5,7 +5,7 @@
 
 <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
-  - 🔭 I’m currently pursuing my Bachelor's Degree in Computer Science and Engineering.
+  - 🔭 I've persued my Bachelor's Degree in Computer Science and Engineering.
   - 💻 ***I Write Code Every Single Day***
   - 🌱 I’m currently learning ***AWS Serverless architecture And Mobile Application Development***
   - 📫 How to reach me ***Praveenkusuluri08@gmail.com***
