@@ -46,15 +46,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKusuluri08" />
 </p>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HMLV0B4DPM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HMLV0B4DPM');
-</script>
+<img src="https://www.googletagmanager.com/gtag/js?id=G-HMLV0B4DPM" style="display: none;" onload="gtag('event', 'page_view', { 'send_to': 'G-HMLV0B4DPM', 'event_callback': function() { document.getElementById('google-analytics').remove(); } });" id="google-analytics">
 
 
 ### Connect with me
