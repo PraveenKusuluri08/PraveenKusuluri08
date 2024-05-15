@@ -46,7 +46,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKusuluri08" />
 </p>
 
-<img src="https://www.google-analytics.com/collect?v=1&tid=G-2TRDD4GKBH&cid=1&t=pageview&dp=%2Fgithub%2Fprofile%2Freadme">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HMLV0B4DPM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HMLV0B4DPM');
+</script>
 
 
 ### Connect with me
