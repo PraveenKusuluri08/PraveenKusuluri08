@@ -46,6 +46,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKusuluri08" />
 </p>
 
+<img src="https://www.google-analytics.com/collect?v=1&tid=G-2TRDD4GKBH&cid=1&t=pageview&dp=%2Fgithub%2Fprofile%2Freadme">
+
+
 ### Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/praveen-kusuluri-0504a71b2/)
